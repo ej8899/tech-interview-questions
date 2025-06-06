@@ -19,7 +19,7 @@
 ## Learning & Adaptability
 
 **How do you stay up to date with new technologies relevant to your role?**  
-- What’s something new you learned recently and applied at work?  
+- 🔶 What’s something new you learned recently and applied at work?  
 - How do you choose what to learn next?  
 - Have you ever led or participated in a team knowledge-sharing session?
 
@@ -37,7 +37,7 @@
 - What problems did you run into during or after rollout?  
 - Did you document the setup or hand it off to others?
 
-**Describe a time you had to solve a critical IT problem without existing documentation.**  
+** 🔶 Describe a time you had to solve a critical IT problem without existing documentation.**  
 - What steps did you take to troubleshoot and resolve the issue?  
 - How did you verify your solution worked?  
 - Did you follow up with preventive or process changes?
@@ -51,12 +51,12 @@
 - What experience do you have with Exchange Online, Teams, or SharePoint governance?  
 - Have you handled license assignments, user provisioning, or deprovisioning in bulk?
 
-**Tell us about a time you managed or deployed something in Azure or AWS.**  
+**🔶 Tell us about a time you managed or deployed something in Azure or AWS.**  
 - What services did you use, and how did you secure access?  
 - Did you work with networking (VNets, NSGs) or automation tools (ARM, CLI, Bicep)?  
 - Which platform do you prefer working in, and why?
 
-**Have you ever used Microsoft  to investigate user activity or potential data exfiltration?**
+**🔶 Have you ever used Microsoft  to investigate user activity or potential data exfiltration?**
 - What specific feature(s) did you use? — (Purview, eDiscovery, Advanced Audit, or Insider Risk)
 - What was the purpose of your investigation? (legal, insider threat, stolen device, or another)
 
@@ -74,7 +74,7 @@
 - What were the critical components (firewalls, VLANs, VPNs)?  
 - What tools did you deal with  monitoring and diagnostics?
 
-**Have you ever configured or maintained IPS & IDS systems?**  
+**🔶 Have you ever configured or maintained IPS & IDS systems?**  
 - What was your role in implementation or ongoing tuning?  
 - Were any changes made in response to specific threats or audits?  
 - How do you ensure minimal disruption while adjusting security controls?
@@ -88,7 +88,7 @@
 - What actions did you personally take?  
 - What long-term changes were made afterward?
 
-**Have you ever performed malware analysis or reverse engineering investigation?**
+**🔶 Have you ever performed malware analysis or reverse engineering investigation?**
 - Was this a live incident or a controlled lab analysis?
 - What tools did you use to investigate?
 - What reporting or documentation did you provide afterward?
@@ -104,7 +104,7 @@
 ## Automation / PowerShell
 (PowerShell mentioned but lacks script examples or real use cases.)
 
-**Describe a PowerShell script you created that solved a real problem.**  
+**🔶 Describe a PowerShell script you created that solved a real problem.**  
 - What did the script do and how was it triggered?   
 - Is it something others use or rely on now?
 
