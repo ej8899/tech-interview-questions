@@ -114,5 +114,3 @@
 
 
 
-If those concerns can be satisfied in interview, RP could fit well into a structured sysadmin team with the right mentoring and oversight.
-
