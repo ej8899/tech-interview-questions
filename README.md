@@ -1,4 +1,4 @@
-# Interview Questions
+# Interview Questions & Red Flags – Real Insights from a Hiring Perspective
 
 Welcome! This public repository contains real-world interview questions, follow-up prompts, and notes compiled from my direct involvement in technical hiring for IT, cybersecurity, cloud, and related tech roles.
 
