@@ -1,7 +1,6 @@
 # Interview Questions For  
 **Candidate: JS**
 
-**Interview Date:** 2025-06-06 
 
 ---
 
