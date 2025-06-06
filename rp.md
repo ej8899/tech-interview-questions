@@ -1,4 +1,4 @@
-# Candidate Review: RP – System Administrator Evaluation
+# Candidate Review: RP
 
 ---
 
